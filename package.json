@@ -1,0 +1,19 @@
+{
+  "name": "king-aur-deploy",
+  "version": "1.0.0",
+  "description": "BASIC APP TO DEPLOY",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "king"
+  ],
+  "author": "ANSHU BABU",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
